@@ -1,0 +1,10 @@
+{
+  "description": "Delivers an immersive, animated portal showcasing intelligent AI routing middleware with interactive 3D visuals and developer tools for seamless AI integration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
